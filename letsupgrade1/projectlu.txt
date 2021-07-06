@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SMALL BASKETIA</title>
+    <link rel="stylesheet" href="projectlu.css">
+    <link rel="icon" href="C:\Users\admin\Desktop\letsupgrade\p1.png">
+  </head>
+  <body>
+    <!-- header start -->
+    <div class="header head-cont" id="header">
+      <img src="C:\Users\admin\Desktop\letsupgrade\p1.png" alt="image" style="width:50px; height:40px; margin:20px;">
+      <div class="container head_cont">
+        <div class="logo">
+         SMALL BASKETIA
+        </div>
+        <div class="nav">
+          <div class="nav-i">home</div>
+          <div class="nav-i">about</div>
+          <div class="nav-i">services</div>
+          <div class="nav-i">contact</div>
+
+        </div>
+      </div>
+    </div>
+    <!-- header end -->
+
+    <!-- banner start -->
+    <div class="banner">
+      <div class="overlay">
+        <div class="ban-txt">
+          <div class="padd">
+            <h1 class="banner-title">Learn about us</h1>
+            <p class="banner-desc">shop for only the best quality products and vegetables online.skip the queue and buy grocery online.shop more to save more.get the products delievered to your doorstep,at lowest prices with best quality products</p>
+            <p><button class="ban-but">Click here </button></p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+    <!-- banner end -->
+    <!-- services start -->
+    <div class="services">
+      <h1 style="color:white; text-transform:capitalize;">What we Learn Here</h1>
+      <div class="container serv-cont">
+        <div class="service">
+          <div class="serv-img">
+             <img src="C:\Users\admin\Desktop\letsupgrade\p5.jpg" alt="image" style=" height:140px; margin:20px;">
+          </div>
+          <div class="serv-d">
+            <div class="serv-padd">
+              <h1 class="serv-title">offer upto 35%</h1>
+              <p class="serv-desc">deals for the day</p>
+              <button class="serv-but">know More</button>
+
+            </div>
+
+          </div>
+
+        </div>
+        <div class="service">
+          <div class="serv-img">
+            <img src="C:\Users\admin\Desktop\letsupgrade\p2.jpg" alt="image" style=" height:140px; margin:20px;">
+          </div>
+          <div class="serv-d">
+            <div class="serv-padd">
+              <h1 class="serv-title">offer upto 45%</h1>
+              <p class="serv-desc">big pack<br>bigger discouts</p>
+              <button class="serv-but">know More</button>
+
+            </div>
+
+          </div>
+
+        </div>
+        <div class="service">
+          <div class="serv-img">
+             <img src="C:\Users\admin\Desktop\letsupgrade\p3.jpg" alt="image" style=" height:140px; margin:20px;">
+          </div>
+          <div class="serv-d">
+            <div class="serv-padd">
+              <h1 class="serv-title">offer upto 27%</h1>
+              <p class="serv-desc">combo deals</p>
+              <button class="serv-but">know More</button>
+
+            </div>
+
+          </div>
+
+        </div>
+        <div class="service">
+          <div class="serv-img">
+             <img src="C:\Users\admin\Desktop\letsupgrade\p4.jpg" alt="image" style=" height:140px; margin:20px;">
+          </div>
+          <div class="serv-d">
+            <div class="serv-padd">
+              <h1 class="serv-title">offer upto 15%</h1>
+              <p class="serv-desc">deals of week</p>
+              <button class="serv-but">know More</button>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+    <!-- service end -->
+    <!-- introduction -->
+    <div class="about">
+      <h1>What is SMALL BASKETIA</h1>
+      <div class="container ab-cont">
+        <span class="ab-txt">SMALL BASKETIA</span> is one of the world's fast growing store. We here takecare of all the cleanliness. Our community has always takencare of ontime delivery.Here all types of fruits ,vegetables,and groceries.
+      </div>
+    </div>
+    <!-- introduction ends -->
+    <div class="highlight">
+      <div class="container high-cont">
+        <div class="high-txt">
+          <h1 class="high-title">fully sanitised</h1>
+        </div>
+        <div class="high-txt">
+          <h1 class="high-title">well organised</h1>
+   
+        </div>
+        <div class="high-txt">
+          <h1 class="high-title">neatly packed</h1>
+          
+        </div>
+        <div class="high-txt">
+          <h1 class="high-title">safe and on time<br>
+ delivery</h1>
+          >
+        </div>
+
+      </div>
+
+    </div>
+    <!-- highlight ends -->
+    <!-- quote starts -->
+    <div class="quote">
+      <div class="container qt-cont">
+        <h1 style="color:black">check for more offers</h1>
+        <button class="qt-btn">click Here</button>
+
+      </div>
+
+    </div>
+    <!-- quote ends -->
+    <!-- portfolio starts -->
+    <div class="portfolio">
+      <div class="container port-cont">
+        <div class="project pro-1">
+          <h1 class="pro-title">fruits</h1>
+        </div>
+        <div class="project pro-2">
+          <h1 class="pro-title">vegetables</h1>
+        </div>
+        <div class="project pro-3">
+          <h1 class="pro-title">groceries</h1>
+        </div>
+        <div class="project pro-4">
+          <h1 class="pro-title">oils and masalas</h1>
+        </div>
+        <div class="project pro-5">
+          <h1 class="pro-title">babycare</h1>
+        </div>
+        <div class="project pro-6">
+          <h1 class="pro-title">beauty and hygine</h1>
+        </div>
+        <div class="project pro-7">
+          <h1 class="pro-title">snacks</h1>
+        </div>
+        <div class="project pro-8">
+          <h1 class="pro-title">cleaning products</h1>
+        </div>
+
+      </div>
+
+    </div>
+    <!-- portfolio ends -->
+    <!-- footer starts -->
+    <div class="footer">
+      <div class="container foot-cont">
+        <div class="foot-ele ele1"><h1 class="foot-title">SMALL BASKETIA</h1></div>
+        <div class="foot-ele">
+          <ul>
+            <li class="x1">Quick Links</li>
+            <li>Home</li>
+            <li>Services</li>
+            <li>About Us</li>         
+            <li>Contact Info</li>
+          </ul>
+        </div>
+        <div class="foot-ele">
+          <ul>
+            <li class="x1">Contact Us</li>
+            <li>
+               first street, road no-6,
+              karnataka,banglore.
+            </li>
+            <li>140235980</li>
+            <li>sb@Smallbasketia.com</li>
+          </ul>
+        </div>
+        <div class="foot-ele ele4">
+          <div class="container ele4-cont">
+            <div class="so-i si1"></div>
+            <div class="so-i si2"></div>
+            <div class="so-i si3"></div>
+            <div class="so-i si4"></div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <script type="text/javascript">
+    window.onscroll=function(){
+      if(window.pageYOffset>600){
+        document.getElementById('header').style.backgroundColor="#302e2e";
+      }
+      else{
+        document.getElementById('header').style.backgroundColor="transparent";
+      }
+    }
+
+    </script>
+
+  </body>
+</html>
